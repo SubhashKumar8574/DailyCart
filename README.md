@@ -2,6 +2,8 @@
 
 **DailyCart** is a modern, full-featured e-commerce web application built with **ReactJS** and **Firebase**. It supports user authentication, product browsing, cart management, admin control, and real-time order tracking.
 
+🔗 **Live Demo:** [Click here to view the app](https://dailycartsubhashkumar.netlify.app/)
+
 ![DailyCart Banner](./public/banner.png) <!-- Replace with your actual image -->
 
 ---
@@ -25,7 +27,6 @@
 |------------------------------|--------------------------------|-----------------------------|------------------------------|
 | ![](./public/homepage.png)   | ![](./public/product.png)      | ![](./public/cart.png)      | ![](./public/admin.png)      |
 
-> 💡 Place actual screenshots in your `public/` folder and rename them as shown above.
 
 ---
 
