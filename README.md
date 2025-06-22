@@ -45,4 +45,8 @@
 
 ```bash
 git clone https://github.com/SubhashKumar8574/DailyCart.git
+<<<<<<< HEAD
 cd DailyCart
+=======
+cd DailyCart
+>>>>>>> 968b0f271e2d2b55e880878d0474320a3a70e362
